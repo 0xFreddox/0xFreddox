@@ -5,9 +5,10 @@
    <strong>0xFreddox@Github:-$ ls</strong>
     <span>WhoAmI.py</span>
    <strong>0xFreddox@Github:-$ python3 WhoAmI.py</strong>
-    <strong>🔴𝗔𝗚𝗘:𝟭𝟳🔴</strong>
-    <strong>💻𝗦𝗖𝗛𝗢𝗢𝗟 𝗦𝗨𝗕𝗝𝗘𝗖𝗧:𝗜𝗖𝗧💻</strong>
-    <strong>🟢𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡:𝗜𝗧𝗔𝗟𝗬🔴</strong
-    
-  </pre>
+      AGE:17
+      LOCATION:IT
+      SCHOOL SUBJECT:ICT
+   <strong>0xFreddox@Github:-$</strong>
+</pre>
+
 
