@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>🟣𝒀𝑶𝑰 𝑮𝑼𝒀𝑺🟣<h1> 
+<img src="https://komarev.com/ghpvc/?username=0xFreddox&label=PROFILE+VIEWS">
+<h2>👁‍🗨ᗯᕼO ᗩᗰ I👁‍🗨</h2>
+<pre>
+   <strong>0xFreddox@Github:-$ ls</strong>
+    <span>WhoAmI.py</span>
+   <strong>0xFreddox@Github:-$ python3 WhoAmI.py</strong>
+    <strong>◼️AGE:17◼️</strong>
+    <strong╰(▔∀▔)╯WATCH:ANIM╰(▔∀▔)╯</strong>
+    <strong>💻SCHOOL SUBJECT:ICT💻</strong>
+    <strong>🇮🇹LOCATION:ITALY�🇮🇹</strong>
+  </pre>
 
-<!--
-**0xFreddox/0xFreddox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
