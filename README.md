@@ -2,14 +2,14 @@
 <img src="https://komarev.com/ghpvc/?username=0xFreddox&label=PROFILE+VIEWS">
 <h2>👁‍🗨ᗯᕼO ᗩᗰ I👁‍🗨</h2>
 <pre>
-   <strong>0xFreddox@Github:-$ ls</strong>
-    <span>WhoAmI.py</span>
-   <strong>0xFreddox@Github:-$ python3 WhoAmI.py</strong>
-      AGE:{17}
-      LOCATION:{IT}
-      SCHOOL SUBJECT:{ICT}
-      LIKES:{Web development,CTF,Animes.}
-   <strong>0xFreddox@Github:-$</strong>
+𝟬𝘅𝗙𝗿𝗲𝗱𝗱𝗼𝘅@𝗚𝗶𝘁𝗵𝘂𝗯:-$ 𝗹𝘀</𝘀𝘁𝗿𝗼𝗻𝗴>
+  𝗪𝗵𝗼𝗔𝗺𝗜.𝗽𝘆
+𝟬𝘅𝗙𝗿𝗲𝗱𝗱𝗼𝘅@𝗚𝗶𝘁𝗵𝘂𝗯:-$ 𝗽𝘆𝘁𝗵𝗼𝗻𝟯 𝗪𝗵𝗼𝗔𝗺𝗜.𝗽𝘆
+ 𝗔𝗚𝗘:{𝟭𝟳}
+ 𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡:{𝗜𝗧}
+ 𝗦𝗖𝗛𝗢𝗢𝗟 𝗦𝗨𝗕𝗝𝗘𝗖𝗧:{𝗜𝗖𝗧}
+ 𝗟𝗜𝗞𝗘𝗦:{𝗪𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁,𝗖𝗧𝗙,𝗔𝗻𝗶𝗺𝗲𝘀.}
+𝟬𝘅𝗙𝗿𝗲𝗱𝗱𝗼𝘅@𝗚𝗶𝘁𝗵𝘂𝗯:-$
 </pre>
    <h2>Language</h2>
 
