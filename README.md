@@ -12,6 +12,10 @@
 𝟬𝘅𝗙𝗿𝗲𝗱𝗱𝗼𝘅@𝗚𝗶𝘁𝗵𝘂𝗯:-$
 </pre>
    <h2>Language</h2>
-  <img src="https://github.com/0xFreddox/0xFreddox/blob/main/294678_html5_icon.png">
+  <p float="left">
+  <img src="https://github.com/0xFreddox/0xFreddox/blob/main/317755_badge_html_html5_achievement_award_icon.png">
+  <img src="https://github.com/0xFreddox/0xFreddox/blob/main/317756_badge_css_css3_achievement_award_icon%20(2).png">
+  <img src="https://github.com/0xFreddox/0xFreddox/blob/main/4375050_logo_python_icon%20(1).png">
+  </p>
 
 
