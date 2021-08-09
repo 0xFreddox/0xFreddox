@@ -12,5 +12,6 @@
 𝟬𝘅𝗙𝗿𝗲𝗱𝗱𝗼𝘅@𝗚𝗶𝘁𝗵𝘂𝗯:-$
 </pre>
    <h2>Language</h2>
+  <img src="https://github.com/0xFreddox/0xFreddox/blob/main/294678_html5_icon.png">
 
 
