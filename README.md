@@ -16,6 +16,7 @@
   <img src="https://github.com/0xFreddox/0xFreddox/blob/main/317755_badge_html_html5_achievement_award_icon.png">
   <img src="https://github.com/0xFreddox/0xFreddox/blob/main/317756_badge_css_css3_achievement_award_icon%20(2).png">
   <img src="https://github.com/0xFreddox/0xFreddox/blob/main/4375050_logo_python_icon%20(1).png">
+  <img src="https://github.com/0xFreddox/0xFreddox/blob/main/6892792_c%2B%2B_extenstion_file_format_icon.png">
   </p>
 
 
